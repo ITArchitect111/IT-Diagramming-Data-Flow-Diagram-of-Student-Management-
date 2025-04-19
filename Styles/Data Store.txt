@@ -1,0 +1,17 @@
+html=1;
+dashed=0;
+whiteSpace=wrap;
+shape=mxgraph.dfd.dataStoreID;
+align=left;
+spacingLeft=3;
+points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];
+fillColor=#e1d5e7;
+strokeColor=#9673a6;
+comic=0;
+enumerate=0;
+treeMoving=0;
+treeFolding=0;
+resizeHeight=1;
+resizeWidth=1;
+flipH=0;
+flipV=0;

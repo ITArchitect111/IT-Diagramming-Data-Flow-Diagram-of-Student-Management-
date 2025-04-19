@@ -1,0 +1,16 @@
+swimlane;
+fontStyle=0;
+childLayout=stackLayout;
+horizontal=1;
+startSize=36;
+horizontalStack=0;
+resizeParent=1;
+resizeParentMax=0;
+resizeLast=0;
+collapsible=0;
+marginBottom=0;
+swimlaneFillColor=#ffffff;
+fillColor=#f8cecc;
+strokeColor=#b85450;
+rounded=1;
+shadow=1;
