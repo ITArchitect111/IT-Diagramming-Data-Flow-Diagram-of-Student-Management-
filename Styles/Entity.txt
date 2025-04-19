@@ -1,0 +1,8 @@
+html=1;
+dashed=0;
+whiteSpace=wrap;
+fillColor=#fff2cc;
+strokeColor=#d6b656;
+rounded=0;
+glass=0;
+shadow=1;
