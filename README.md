@@ -2,10 +2,10 @@
 
 ## Description
 This project demonstrates a complete IT Diagram setup using:
-- **Entity**
-- **Data Store**
-- **Data Process**
-- **Data Flow**
+- **2 Entity**
+- **3 Data Store**
+- **6 Data Process**
+- **Data Flows**
 
 The diagrambincludes **Shapes**, **Legends**, **Styles**, and **Connections between shapes** . Designed and Queried using **Draw.io**, this setup is ideal for learning how to design Data Flow Diagram base on specific process.
 
@@ -27,7 +27,7 @@ The diagrambincludes **Shapes**, **Legends**, **Styles**, and **Connections betw
 - **Data Arrow.txt**
 
 # IT Diagram Source File/
-- **IT Diagrams(Enrollment System DFD).drawio**
+- **IT Diagrams 1 (Student Management System DFD).drawio**
   
 # README.md
 
@@ -38,7 +38,7 @@ The diagrambincludes **Shapes**, **Legends**, **Styles**, and **Connections betw
 ---
 
 ## How to Use
-1. Open the `Data Flow Diagram example.drawio` file using **Draw.io**.
+1. Open the `IT Diagrams 1 (Student Management System DFD).drawio` file using **Draw.io**.
 2. Check the Shapes if properly connected.
 3. try to move shape's and edit the text and appearance of the shapes.
 
