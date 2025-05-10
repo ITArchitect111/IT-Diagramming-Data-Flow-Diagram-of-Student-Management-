@@ -26,6 +26,9 @@ The diagrambincludes **Shapes**, **Legends**, **Styles**, and **Connections betw
 - **Data Process.txt**
 - **Data Arrow.txt**
 
+# Overview 
+![Diagram](Overview/IT_Diagram_1.png)
+
 # IT Diagram Source File/
 - **IT Diagrams 1 (Student Management System DFD).drawio**
   
