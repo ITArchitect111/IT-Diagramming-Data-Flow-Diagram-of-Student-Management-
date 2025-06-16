@@ -7,7 +7,7 @@ This project demonstrates a complete IT Diagram setup using:
 - **6 Data Process**
 - **Data Flows**
 
-The diagrambincludes **Shapes**, **Legends**, **Styles**, and **Connections between shapes** . Designed and Queried using **Draw.io**, this setup is ideal for learning how to design Data Flow Diagram base on specific process.
+The diagram includes **Shapes**, **Legends**, **Styles**, and **Connections between shapes** . Designed and Queried using **Draw.io**, this setup is ideal for learning how to design Data Flow Diagram base on specific process.
 
 ---
 
